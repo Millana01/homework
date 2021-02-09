@@ -1,3 +1,9 @@
-# homework
+# Homework for DevOps course
 
-echo "Hello, Milana!"
+## Short description
+
+Repository with succeeded tasks
+
+### Student: Milana Avtuh
+
+ 
