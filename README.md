@@ -1,9 +1,7 @@
-# Homework for DevOps course
+# Technical task
 
 ## Short description
 
-Repository with succeeded tasks
+Repository with succeeded tasks for Andersen's laboratory
 
 ### Student: Milana Avtuh
-
-### Student's BIO: age - 21 y.o.; gender - female.
