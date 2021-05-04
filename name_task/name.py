@@ -1,12 +1,13 @@
-true_name = 'Вячеслав'
+target_name = 'вячеслав'
 
 while True:
   name = input('Введите имя(нажмите q для выхода): ')
-  if name == 'q':
+  input_name = name.lower()
+  if input_name == 'q':
     print('Пока')
     break
-  elif name.capitalize() == true_name:
-    print('Привет, %s' % true_name)
+  elif input_name == target_name:
+    print('Привет, %s' % target_name.capitalize())
   else:
     print('Нет такого имени')
     
